@@ -11,10 +11,8 @@ def print_hi(name):
 
 # Press the green button in the gutter to run the script.
 if __name__ == '__main__':
-<<<<<<< HEAD
-    print_hi('khiem123git')
-=======
 
->>>>>>> d69ad62e4ab032c15a0324a69e7e7b2ba1e0aa4f
+    print_hi('khiem')
+
 
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
